@@ -15,4 +15,15 @@
   - Abitrary text descriptions and thumbnails in link cards.
   - Disguised links in post text.
 
-## Footnotes
+## Contact
+
+- Email: [north@ꩰ.com](mailto:north@ꩰ.com)
+- Press: [press@jeltz.org](mailto:press@jeltz.org)
+- Mastodon: [@north@ꩰ.com](https://ꩰ.com/@north)
+- Twitch: [NorthAntara](https://twitch.tv/northantara)
+- YouTube: [NorthAntara](https://youtube.com/northantara)
+- Twitter: [NorthAntara](https://twitter.com/northantara)
+
+## Sponsorship
+
+- If you enjoy my work, consider becoming a sponsor on [Patreon](https://patreon.com/northantara) or [GitHub](https://github.com/sponsors/qwell/), and/or consider donating to the [Electronic Frontier Foundation](https://eff.org/donate) or [St. Jude](https://www.stjude.org/donate).
