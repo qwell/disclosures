@@ -2,18 +2,36 @@
 
 ## Timeline
 
-- **2023-11-30** - _--PENDING RELEASE--_
-  - Eight _--PENDING RELEASE--_ platforms from eight separate vendors.
-  - Combined disclosure: _--PENDING RELEASE--_
-  - Platform #1 disclosure: _--PENDING RELEASE--_
-  - Platform #2 disclosure: _--PENDING RELEASE--_
-  - Platform #3 disclosure: _--PENDING RELEASE--_
-  - Platform #4, #5, #6, #7, and #8 disclosure: _--PENDING RELEASE--_
-- **2023-11-06** - [BluHorse Inmate Management](https://ꩰ.com/@north/111365131136729011)
-  - Leaked personal data of inmates and officers.
-- **2023-09-13** - [Bluesky Social Network](https://github.com/qwell/bsky-exploits)
-  - Abitrary text descriptions and thumbnails in link cards.
-  - Disguised links in post text.
+### [Disorder in the Court](https://github.com/qwell/disorder-in-the-court)
+
+**2023-11-30**
+
+Insufficient permission check vulnerabilities in public court record platforms from multiple vendors allowed unauthorized public access to sealed, confidential, unredacted, and/or otherwise restricted case documents. Affected documents include witness lists and testimony, mental health evaluations, child custody agreements, detailed allegations of abuse, corporate trade secrets, jury forms, and much more.
+
+- [All Vendors (Combined)](https://github.com/qwell/disorder-in-the-court/blob/main/README.md)
+- [Catalis -- CMS360](https://github.com/qwell/disorder-in-the-court/blob/main/README-Catalis.md)
+- [Henschen & Associates -- CaseLook](https://github.com/qwell/disorder-in-the-court/blob/main/README-Henschen%26Associates.md)
+- [Tyler Technologies -- Court Case Management Plus](https://github.com/qwell/disorder-in-the-court/blob/main/README-TylerTechnologies.md)
+- [Florida](https://github.com/qwell/disorder-in-the-court/blob/main/README-Florida.md)
+
+  - Brevard County
+  - Hillsborough County
+  - Lee County
+  - Monroe County
+  - Sarasota County
+
+### [BluHorse Inmate Management](https://ꩰ.com/@north/111365131136729011)
+
+**2023-11-06**
+
+- Leaked personal data of inmates and officers.
+
+### [Bluesky Social Network](https://github.com/qwell/bsky-exploits)
+
+**2023-09-13**
+
+- Abitrary text descriptions and thumbnails in link cards.
+- Disguised links in post text.
 
 ## Contact
 
