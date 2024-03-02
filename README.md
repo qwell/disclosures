@@ -10,7 +10,7 @@ Vulnerabilities in the eFiling platform from [Granicus](https://granicus.com/) a
 
 Granicus's eFiling platform is used statewide in [Florida](https://www.myflcourtaccess.com/default.aspx) and [Arizona](https://efile.azcourts.gov/).
 
-Users could be registered by sending a POST request to the `/api/Security/RegisterUser` endpoint with the following JSON.
+Administrator accounts could be registered by sending a POST to `/api/Security/RegisterUser` with the following JSON.
 
 ```
 {
