@@ -2,6 +2,16 @@
 
 ## Timeline
 
+### [Granicus eFiling](#granicus-efiling)
+
+**2024-03-02**
+
+Vulnerabilities in the eFiling platform from [Granicus](https://granicus.com/) allowed attackers to register accounts in any organization of their choosing, including the organization that granted administrator privileges. Administrators have carte blanche access to all filings in all cases. Additionally, an organization owner could force any user into their own organization, which allowed the organization owner to effectively revoke privileges of administrators or other organization owners.
+
+Granicus's eFiling platform is used statewide in [Florida](https://www.myflcourtaccess.com/default.aspx) and [Arizona](https://efile.azcourts.gov/).
+
+_Note: Shortly after receiving my report, Granicus evidently leaked my information to the Arizona Supreme Court. For the next two months, Granicus and the Arizona Supreme Court cyberstalked me; my LinkedIn profile was viewed repeatedly, sometimes multiple times per day, by several employees from each company._
+
 ### [Disorder in the Court](https://github.com/qwell/disorder-in-the-court)
 
 **2023-11-30**
@@ -13,7 +23,6 @@ Insufficient permission check vulnerabilities in public court record platforms f
 - [Henschen & Associates -- CaseLook](https://github.com/qwell/disorder-in-the-court/blob/main/README-Henschen%26Associates.md)
 - [Tyler Technologies -- Court Case Management Plus](https://github.com/qwell/disorder-in-the-court/blob/main/README-TylerTechnologies.md)
 - [Florida](https://github.com/qwell/disorder-in-the-court/blob/main/README-Florida.md)
-
   - Brevard County
   - Hillsborough County
   - Lee County
