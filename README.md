@@ -12,7 +12,7 @@ Granicus's eFiling platform is used statewide in [Florida](https://www.myflcourt
 
 Administrator accounts could be registered by sending a POST to `/api/Security/RegisterUser` with the following JSON.
 
-```
+``` JSON
 {
   "User":{
     "OrganizationId":"0","IsAdministrator":true,"UserTypeCode":"10",
