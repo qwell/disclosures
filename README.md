@@ -15,11 +15,13 @@ Users could be registered by sending a POST request to the `/api/Security/Regist
 ```
 {
   "User":{
-    "OrganizationId":"0","IsAdministrator":true,"UserTypeCode":"10","IdType":-1,"IdTypeSpecified":false,"IdState":"-1","IdNumber":"",
-    "LogonName":"<username>","LogonPassword":"<password>","FirstName":"Example","MiddleName":"","LastName":"User","Suffix":"",
+    "OrganizationId":"0","IsAdministrator":true,"UserTypeCode":"10",
+    "IdType":-1,"IdTypeSpecified":false,"IdState":"-1","IdNumber":"",
+    "LogonName":"<username>","LogonPassword":"<password>",
+    "FirstName":"Example","MiddleName":"","LastName":"User","Suffix":"",
     "PrimaryEmailAddress":"fake@example.com","AlternateEmailAddress1":"","AlternateEmailAddress2":"",
-    "Address1":"123 Fake St","Address2":"","Country":"US","CountryCode":"US","City":"Beverly Hills","State":"CA","ZipCode":"90210",
-    "PhoneNumber":"","PhoneExtension":""
+    "Address1":"123 Fake St","Address2":"","City":"Beverly Hills","State":"CA","ZipCode":"90210",
+    "Country":"US","CountryCode":"US","PhoneNumber":"","PhoneExtension":""
   },"ForceToPendingApproval":false,"ForceCreateUser":false
 }
 ```
