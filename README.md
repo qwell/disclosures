@@ -2,9 +2,11 @@
 
 ## Timeline
 
-### [TBD](#tbd)
+### [Granicus GovQA](https://github.com/qwell/disclosure-granicus-govqa)
 
 **2024-03-06**
+
+Insufficient permission check vulnerabilities in Granicus's GovQA allowed unauthorized access to view, edit, and change ownership of open records requests, including restricted-access confidential records. By changing ownership of a request, an attacker could effectively deny a legitimate user's access to that request. The vulnerabilities affected various deployments, including numerous Departments of Children and Family Services or their equivalents, which handle highly sensitive records of domestic violence and sexual abuse allegations against children.
 
 ### [Granicus eFiling](#granicus-efiling)
 
@@ -72,4 +74,4 @@ Insufficient permission check vulnerabilities in public court record platforms f
 
 ## Sponsorship
 
-- If you enjoy my work, consider becoming a sponsor on [Patreon](https://patreon.com/northantara) or [GitHub](https://github.com/sponsors/qwell/), and/or consider donating to the [Electronic Frontier Foundation](https://eff.org/donate) or [St. Jude](https://www.stjude.org/donate). Several hundred hours of unpaid labor have been put into researching and disclosing these vulnerabilities; no vendors have provided or offered any bounties.
+- If you enjoy my work, consider becoming a sponsor on [Patreon](https://patreon.com/northantara) or [GitHub](https://github.com/sponsors/qwell/), and/or consider donating to the [Electronic Frontier Foundation](https://eff.org/donate) or [St. Jude](https://www.stjude.org/donate). Many hours of unpaid labor are put into researching and disclosing vulnerabilities.
