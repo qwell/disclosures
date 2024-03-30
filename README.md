@@ -2,6 +2,46 @@
 
 ## Timeline
 
+### [VendorD eFiling](#vendord-efiling)
+
+**2024-04-??**
+
+An insufficient permission check vulnerability in VendorD's court eFiling platform allows an attacker to view eFiling submissions (and their associated documents, regardless of confidentiality) filed by other users.
+
+- Reported: 2024-03-30
+
+### [VendorC eFiling](#vendorc-efiling)
+
+**2024-04-13** (_Expected_)
+
+An as-yet-unspecified vulnerability exists in VendorC's court eFiling platform. A short disclosure deadline has been given to VendorC due to their handling of previous reports.
+
+- Reported: 2024-03-30
+
+### [VendorB TBD](#vendorb-tbd)
+
+**2024-04-??**
+
+A vulnerability in a platform from VendorB allows an attacker to gain access to any account.
+
+- Reported: 2024-03-30
+
+### [VendorB eFiling](#vendorb-efiling)
+
+**2024-04-??**
+
+Multiple vulnerabilities in VendorB's court eFiling platform allow an attacker to obtain the name, email, and phone number associated with every account; modify details of user accounts, including password and other sensitive information; deny access to user accounts; and gain administrator privileges.
+
+- Reported: 2024-03-30
+
+### [VendorA eFiling](#vendora-efiling)
+
+**2024-04-??**
+
+Multiple vulnerabilities in VendorA's court eFiling platform allow an attacker to obtain private information from any user account and view eFiling submissions (and their associated documents, regardless of confidentiality) filed by other users.
+
+- Reported: 2024-03-30
+
 ### [Granicus GovQA](https://github.com/qwell/disclosure-granicus-govqa)
 
 **2024-03-06**
@@ -12,7 +52,7 @@ Insufficient permission check vulnerabilities in Granicus's GovQA allowed unauth
 
 **2024-03-02**
 
-Vulnerabilities in the eFiling platform from [Granicus](https://granicus.com/) allowed attackers to register accounts in any organization of their choosing, including the organization that granted administrator privileges. Administrators have carte blanche access to all filings in all cases. Additionally, an organization owner could force any user into their own organization, which allowed the organization owner to effectively revoke privileges of administrators or other organization owners.
+Vulnerabilities in [Granicus](https://granicus.com/)'s eFiling platform allowed attackers to register accounts in any organization of their choosing, including the organization that granted administrator privileges. Administrators have carte blanche access to all filings in all cases. Additionally, an organization owner could force any user into their own organization, which allowed the organization owner to effectively revoke privileges of administrators or other organization owners.
 
 Granicus's eFiling platform is used statewide in [Florida](https://www.myflcourtaccess.com/default.aspx) and [Arizona](https://efile.azcourts.gov/).
 
