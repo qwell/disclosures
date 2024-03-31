@@ -2,27 +2,11 @@
 
 ## Timeline
 
-### [VendorD eFiling](#vendord-efiling)
-
-**2024-04-??**
-
-An insufficient permission check vulnerability in VendorD's court eFiling platform allows an attacker to view eFiling submissions (and their associated documents, regardless of confidentiality) filed by other users.
-
-- Reported: 2024-03-30
-
 ### [VendorC eFiling](#vendorc-efiling)
 
-**2024-04-13** (_Expected_)
-
-An as-yet-unspecified vulnerability exists in VendorC's court eFiling platform. A short disclosure deadline has been given to VendorC due to their handling of previous reports.
-
-- Reported: 2024-03-30
-
-### [VendorB TBD](#vendorb-tbd)
-
 **2024-04-??**
 
-A vulnerability in a platform from VendorB allows an attacker to gain access to any account.
+An insufficient permission check vulnerability in VendorC's court eFiling platform allows an attacker to view eFiling submissions (and their associated documents, regardless of confidentiality) filed by other users.
 
 - Reported: 2024-03-30
 
