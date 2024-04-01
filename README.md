@@ -8,7 +8,7 @@
 
 An insufficient permission check vulnerability in VendorC's court eFiling platform allows an attacker to view eFiling submissions (and their associated documents, regardless of confidentiality) filed by other users.
 
-- Reported: 2024-03-30
+- Reported: 2024-04-01
 
 ### [VendorB eFiling](#vendorb-efiling)
 
