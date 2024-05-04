@@ -29,7 +29,7 @@ EZ-Filing v4 is used by [Georgia](https://ez-filing.net/georgia) and [South Caro
 - Reported: 2024-03-30
 - Resolved: 2024-04-30
 
-### [Catalis EZ-Filing v3](#catalis-ez-filing-v3)
+### [Catalis EZ-Filing v3](https://github.com/qwell/disclosures/blob/main/README-2024-05-04-catalis-ez-filing-v3.md)
 
 **2024-05-04**
 
