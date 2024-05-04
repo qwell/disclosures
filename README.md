@@ -41,7 +41,7 @@ EZ-Filing v3.x is used by [Maine](https://maineprobate.net/efiling).
 - Reported: 2024-03-30
 - Resolved: 2024-04-30
 
-### [Granicus GovQA](https://github.com/qwell/disclosure-granicus-govqa)
+### [Granicus GovQA](https://github.com/qwell/disclosures/blob/main/README-2024-03-07-granicus-govqa.md)
 
 **2024-03-06**
 
