@@ -18,7 +18,7 @@ Multiple vulnerabilities in VendorB's court eFiling platform allow an attacker t
 
 - Reported: 2024-03-30
 
-### [Catalis EZ-Filing v4](#https://github.com/qwell/disclosures/blob/main/README-2024-05-04-catalis-ez-filing-v4.md)
+### [Catalis EZ-Filing v4](https://github.com/qwell/disclosures/blob/main/README-2024-05-04-catalis-ez-filing-v4.md)
 
 **2024-05-04**
 
