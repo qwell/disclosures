@@ -37,7 +37,6 @@ An insufficient permission check vulnerability in [Catalis](https://catalisgov.c
 
 EZ-Filing v3 is used by [Maine](https://maineprobate.net/efiling).
 
-
 - Reported: 2024-03-30
 - Resolved: 2024-04-30
 
