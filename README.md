@@ -18,24 +18,24 @@ Multiple vulnerabilities in VendorB's court eFiling platform allow an attacker t
 
 - Reported: 2024-03-30
 
-### [Catalis EZ-Filing v4.x](#catalis-ez-filing-v4x)
+### [Catalis EZ-Filing v4](#https://github.com/qwell/disclosures/blob/main/README-2024-05-04-catalis-ez-filing-v4.md)
 
 **2024-05-04**
 
-Insufficient permission check vulnerabilities in [Catalis](https://catalisgov.com/)'s EZ-Filing v4.x eFiling platform allowed authenticated attackers to extract personal data, such as names, addresses, emails, and phone numbers, from user accounts by manipulating POST requests. This security flaw exposes users to potential identity theft and fraud.
+An insufficient permission check vulnerability in [Catalis](https://catalisgov.com/)'s EZ-Filing v4 eFiling platform allowed authenticated attackers to extract personal data, such as names, addresses, emails, and phone numbers, from user accounts by manipulating POST requests. This security flaw exposes users to potential identity theft and fraud.
 
-EZ-Filing v4.x is used by [Georgia](https://ez-filing.net/georgia) and [South Carolina](https://ez-filing.net/southcarolina).
+EZ-Filing v4 is used by [Georgia](https://ez-filing.net/georgia) and [South Carolina](https://ez-filing.net/southcarolina).
 
 - Reported: 2024-03-30
 - Resolved: 2024-04-30
 
-### [Catalis EZ-Filing v3.x](#catalis-ez-filing-v3x)
+### [Catalis EZ-Filing v3](#catalis-ez-filing-v3)
 
 **2024-05-04**
 
-Insufficient permission check vulnerabilities in [Catalis](https://catalisgov.com/)'s EZ-Filing v3.x eFiling platform at maineprobate.net allowed authenticated users to access sealed documents, such as mental health reports in guardianship cases, exposing highly sensitive and confidential information. This security flaw compromises the privacy and safety of vulnerable individuals involved in legal proceedings.
+An insufficient permission check vulnerability in [Catalis](https://catalisgov.com/)'s EZ-Filing v3 eFiling platform allowed authenticated users to access sealed documents, such as mental health reports in guardianship cases, exposing highly sensitive and confidential information. This security flaw compromises the privacy and safety of vulnerable individuals involved in legal proceedings.
 
-EZ-Filing v3.x is used by [Maine](https://maineprobate.net/efiling).
+EZ-Filing v3 is used by [Maine](https://maineprobate.net/efiling).
 
 
 - Reported: 2024-03-30
