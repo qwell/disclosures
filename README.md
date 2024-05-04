@@ -18,19 +18,34 @@ Multiple vulnerabilities in VendorB's court eFiling platform allow an attacker t
 
 - Reported: 2024-03-30
 
-### [VendorA eFiling](#vendora-efiling)
+### [Catalis EZ-Filing v4.x](#catalis-ez-filing-v4x)
 
-**2024-04-??**
+**2024-05-04**
 
-Multiple vulnerabilities in VendorA's court eFiling platform allow an attacker to obtain private information from any user account and view eFiling submissions (and their associated documents, regardless of confidentiality) filed by other users.
+Insufficient permission check vulnerabilities in [Catalis](https://catalisgov.com/)'s EZ-Filing v4.x eFiling platform allowed authenticated attackers to extract personal data, such as names, addresses, emails, and phone numbers, from user accounts by manipulating POST requests. This security flaw exposes users to potential identity theft and fraud.
+
+EZ-Filing v4.x is used by [Georgia](https://ez-filing.net/georgia) and [South Carolina](https://ez-filing.net/southcarolina).
 
 - Reported: 2024-03-30
+- Resolved: 2024-04-30
+
+### [Catalis EZ-Filing v3.x](#catalis-ez-filing-v3x)
+
+**2024-05-04**
+
+Insufficient permission check vulnerabilities in [Catalis](https://catalisgov.com/)'s EZ-Filing v3.x eFiling platform at maineprobate.net allowed authenticated users to access sealed documents, such as mental health reports in guardianship cases, exposing highly sensitive and confidential information. This security flaw compromises the privacy and safety of vulnerable individuals involved in legal proceedings.
+
+EZ-Filing v3.x is used by [Maine](https://maineprobate.net/efiling).
+
+
+- Reported: 2024-03-30
+- Resolved: 2024-04-30
 
 ### [Granicus GovQA](https://github.com/qwell/disclosure-granicus-govqa)
 
 **2024-03-06**
 
-Insufficient permission check vulnerabilities in Granicus's GovQA allowed unauthorized access to view, edit, and change ownership of open records requests, including restricted-access confidential records. By changing ownership of a request, an attacker could effectively deny a legitimate user's access to that request. The vulnerabilities affected various deployments, including numerous Departments of Children and Family Services or their equivalents, which handle highly sensitive records of domestic violence and sexual abuse allegations against children.
+Insufficient permission check vulnerabilities in [Granicus](https://granicus.com/)'s GovQA allowed unauthorized access to view, edit, and change ownership of open records requests, including restricted-access confidential records. By changing ownership of a request, an attacker could effectively deny a legitimate user's access to that request. The vulnerabilities affected various deployments, including numerous Departments of Children and Family Services or their equivalents, which handle highly sensitive records of domestic violence and sexual abuse allegations against children.
 
 ### [Granicus eFiling](#granicus-efiling)
 
