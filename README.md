@@ -62,7 +62,7 @@ Administrator accounts could be registered by sending a POST to `/api/Security/R
 
 _Note: Shortly after receiving my report, Granicus evidently leaked my information to the Arizona Supreme Court. For the next two months, Granicus and the Arizona Supreme Court cyberstalked me; my LinkedIn profile was viewed repeatedly, sometimes multiple times per day, by several employees from each company._
 
-### [Disorder in the Court](https://github.com/qwell/disorder-in-the-court)
+### [Disorder in the Court](https://github.com/qwell/disclosures/blob/main/README-2023-11-30-disorder-in-the-court.md)
 
 **2023-11-30**
 
