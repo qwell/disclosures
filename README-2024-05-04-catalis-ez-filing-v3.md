@@ -16,9 +16,9 @@ EZ-Filing v3 is used by [Maine](https://maineprobate.net/efiling).
 - 2024-03-30 - Vulnerability details reported to Catalis.
 - 2024-04-09 - Follow-up #1 sent to Catalis.
 - 2024-04-19 - Follow-up #2 sent to Catalis.
-- 2024-04-23 - Vulnerability report escalated to PSQ Equity[^1].
-- 2024-04-23 - PSQ Equity CISO confirms receipt of report and contacts Catalis management.
-- 2024-04-30 - PSQ Equity CISO says that the vulnerability has been fixed.
+- 2024-04-23 - Vulnerability report escalated to PSG Equity[^1].
+- 2024-04-23 - PSG Equity CISO confirms receipt of report and contacts Catalis management.
+- 2024-04-30 - PSG Equity CISO says that the vulnerability has been fixed.
 - 2024-04-30 - Vulnerabilities confirmed fixed.
 
 ## Contact
@@ -33,4 +33,4 @@ EZ-Filing v3 is used by [Maine](https://maineprobate.net/efiling).
 
 - If you enjoy my work, consider becoming a sponsor on [Patreon](https://patreon.com/northantara) or [GitHub](https://github.com/sponsors/qwell/), and/or consider donating to the [Electronic Frontier Foundation](https://eff.org/donate) or [St. Jude](https://www.stjude.org/donate). Many hours of labor are put into researching and disclosing vulnerabilities.
 
-[^1]: _Catalis CEO Scott Roza previously requested that I email him reports directly; no response was provided. The issue was escalated to PSQ Equity's CISO. PSQ Equity is a majority stakeholder of Catalis._
+[^1]: _Catalis CEO Scott Roza previously requested that I email him reports directly; no response was provided. The issue was escalated to PSG Equity's CISO. PSG Equity is a majority stakeholder of Catalis._
