@@ -14,7 +14,7 @@ An insufficient permission check vulnerability in VendorC's court eFiling platfo
 
 Multiple vulnerabilities in VendorB's court eFiling platform allow an attacker to obtain the name, email, and phone number associated with every account; modify details of user accounts, including password and other sensitive information; deny access to user accounts; and gain administrator privileges.
 
-### [Catalis EZ-Filing v4](https://github.com/qwell/disclosures/blob/main/README-2024-05-04-catalis-ez-filing-v4.md)
+### [Catalis EZ-Filing v4](https://govtech.cc/README-2024-05-04-catalis-ez-filing-v4.md)
 
 **2024-05-04**
 
@@ -22,7 +22,7 @@ An insufficient permission check vulnerability in [Catalis](https://catalisgov.c
 
 EZ-Filing v4 is used by [Georgia](https://ez-filing.net/georgia) and [South Carolina](https://ez-filing.net/southcarolina).
 
-### [Catalis EZ-Filing v3](https://github.com/qwell/disclosures/blob/main/README-2024-05-04-catalis-ez-filing-v3.md)
+### [Catalis EZ-Filing v3](https://govtech.cc/README-2024-05-04-catalis-ez-filing-v3.md)
 
 **2024-05-04**
 
@@ -30,7 +30,7 @@ An insufficient permission check vulnerability in [Catalis](https://catalisgov.c
 
 EZ-Filing v3 is used by [Maine](https://maineprobate.net/efiling).
 
-### [Granicus GovQA](https://github.com/qwell/disclosures/blob/main/README-2024-03-07-granicus-govqa.md)
+### [Granicus GovQA](https://govtech.cc/README-2024-03-07-granicus-govqa.md)
 
 **2024-03-06**
 
@@ -62,13 +62,13 @@ Administrator accounts could be registered by sending a POST to `/api/Security/R
 
 _Note: Shortly after receiving my report, Granicus evidently leaked my information to the Arizona Supreme Court. For the next two months, Granicus and the Arizona Supreme Court cyberstalked me; my LinkedIn profile was viewed repeatedly, sometimes multiple times per day, by several employees from each company._
 
-### [Disorder in the Court](https://github.com/qwell/disclosures/blob/main/README-2023-11-30-disorder-in-the-court.md)
+### [Disorder in the Court](https://govtech.cc/README-2023-11-30-disorder-in-the-court.md)
 
 **2023-11-30**
 
 Insufficient permission check vulnerabilities in public court record platforms from multiple vendors allowed unauthorized public access to sealed, confidential, unredacted, and/or otherwise restricted case documents. Affected documents include witness lists and testimony, mental health evaluations, child custody agreements, detailed allegations of abuse, corporate trade secrets, jury forms, and much more.
 
-- [All Vendors (Combined)](https://github.com/qwell/disorder-in-the-court/blob/main/README.md)
+- [All Vendors (Combined)](https://govtech.cc/README-2023-11-30-disorder-in-the-court.md)
 - [Catalis -- CMS360](https://github.com/qwell/disorder-in-the-court/blob/main/README-Catalis.md)
 - [Henschen & Associates -- CaseLook](https://github.com/qwell/disorder-in-the-court/blob/main/README-Henschen%26Associates.md)
 - [Tyler Technologies -- Court Case Management Plus](https://github.com/qwell/disorder-in-the-court/blob/main/README-TylerTechnologies.md)
