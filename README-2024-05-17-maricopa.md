@@ -35,6 +35,7 @@ For example, a particularly sensitive document could be accessed via a URL simil
 - I am also available for both contractual and full-time employment opportunities.
 
 ## Other Disclosures
+
 - [govtech.cc](https://govtech.cc/)
 
 [^1]: _Maricopa County's response should be applauded. They quickly shut down the site and began vulnerability scans (the results of which are unknown)._
