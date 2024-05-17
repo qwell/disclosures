@@ -2,18 +2,6 @@
 
 ## Timeline
 
-### [VendorC eFiling](#vendorc-efiling)
-
-**2024-04-??**
-
-An insufficient permission check vulnerability in VendorC's court eFiling platform allows an attacker to view eFiling submissions (and their associated documents, regardless of confidentiality) filed by other users.
-
-### [VendorB eFiling](#vendorb-efiling)
-
-**2024-04-??**
-
-Multiple vulnerabilities in VendorB's court eFiling platform allow an attacker to obtain the name, email, and phone number associated with every account; modify details of user accounts, including password and other sensitive information; deny access to user accounts; and gain administrator privileges.
-
 ### [Catalis EZ-Filing v4](https://govtech.cc/README-2024-05-04-catalis-ez-filing-v4.md)
 
 **2024-05-04**
