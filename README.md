@@ -2,6 +2,12 @@
 
 ## Timeline
 
+### [Maricopa County Superior Court eFiling](https://govtech.cc/README-2024-05-17-maricopa.md)
+
+**2024-05-17**
+
+Insufficient permission check vulnerabilities allowed unauthorized users to access restricted documents through the Maricopa Superior Court eFiling system's API endpoint. These issues were due to the ability to manipulate user IDs in API requests, potentially exposing sensitive information from recent court filings.
+
 ### [Catalis EZ-Filing v4](https://govtech.cc/README-2024-05-04-catalis-ez-filing-v4.md)
 
 **2024-05-04**
