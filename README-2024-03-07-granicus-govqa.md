@@ -17,7 +17,7 @@ The sequential numbering of Request IDs makes it trivial for attackers to discov
 
 In a clear effort to protect its brand value, Granicus has deemed this issue low severity[^2], showcasing an egregious disregard for industry-standards, such as the Common Vulnerability Scoring System (CVSS).
 
-CVSS: 9.8 (AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H)
+CVSS 9.8 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H)
 
 ## Timeline
 
