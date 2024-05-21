@@ -35,4 +35,8 @@ EZ-Filing v4 is used by [Georgia](https://ez-filing.net/georgia) and [South Caro
 - If you enjoy my work, consider becoming a sponsor on [Patreon](https://patreon.com/northantara) or [GitHub](https://github.com/sponsors/qwell/), and/or consider donating to the [Electronic Frontier Foundation](https://eff.org/donate) or [St. Jude](https://www.stjude.org/donate). Many hours of labor are put into researching and disclosing vulnerabilities.
 - I am also available for both contractual and full-time employment opportunities.
 
+## Other Disclosures
+
+- [govtech.cc](https://govtech.cc/)
+
 [^1]: _Catalis CEO Scott Roza previously requested that I email him reports directly; no response was provided. The issue was escalated to PSG Equity's CISO. PSG Equity is a majority stakeholder of Catalis._
