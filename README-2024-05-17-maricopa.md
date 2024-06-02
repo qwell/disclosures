@@ -6,7 +6,7 @@ Insufficient permission check vulnerabilities allowed unauthorized users to acce
 
 ## Details
 
-The vulnerabilities were discovered on the Maricopa County Superior Court [eFiling platform](https://efiling.clerkofcourt.maricopa.gov/Web/). The key issue lay in an API endpoint accessed when visiting the "My Filings" page. This endpoint, when provided with a numeric user ID, returned all filings submitted by that user in the last seven days. The response included document IDs and URLs for the documents associated with the filing.
+The vulnerabilities were discovered on the Maricopa County Superior Court [eFiling platform](https://efilingonline.clerkofcourt.maricopa.gov/). The key issue lay in an API endpoint accessed when visiting the "My Filings" page. This endpoint, when provided with a numeric user ID, returned all filings submitted by that user in the last seven days. The response included document IDs and URLs for the documents associated with the filing.
 
 An attacker could exploit this vulnerability by sending the numeric user ID of another user to the API endpoint. Due to the wide but manageable range of sequential user IDs (estimated to be around 90,000), it was feasible for an attacker to scan and find recent document submissions. This manipulation would have allowed unauthorized access to restricted documents.
 
