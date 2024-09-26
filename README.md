@@ -2,6 +2,12 @@
 
 ## Timeline
 
+### [Granicus GovQA](https://govtech.cc/README-2024-09-26-granicus-govqa.md)
+
+**2024-09-26**
+
+Several critical vulnerabilities were identified in GovQA, a platform used by government agencies for case and document management. These vulnerabilities included the leakage of usernames and emails, the ability to reset passwords without answering security questions, and the capability to reset any password without knowing the username.
+
 ### [Thomson Reuters C-Track eFiling](https://govtech.cc/README-2024-09-26-thomson-reuters-ctrack.md)
 
 **2024-09-26**
