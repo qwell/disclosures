@@ -169,7 +169,6 @@ In defense of Sarasota County, they were the first to attempt to fix their issue
 ## Support
 
 - If you enjoy my work, consider becoming a sponsor on [Patreon](https://patreon.com/northantara) or [GitHub](https://github.com/sponsors/qwell/), and/or consider donating to the [Electronic Frontier Foundation](https://eff.org/donate) or [St. Jude](https://www.stjude.org/donate). Many hours of labor are put into researching and disclosing vulnerabilities.
-- I am also available for both contractual and full-time employment opportunities.
 
 ## Other Disclosures
 
