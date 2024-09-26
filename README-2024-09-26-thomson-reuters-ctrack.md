@@ -6,7 +6,7 @@ An insufficient permission check vulnerability in Thomson Reuters's C-Track eFil
 
 ## Details
 
-The vulnerability was discovered in the C-Track eFiling platform used by various courts. During the user registration process, the platform provides a dropdown menu for role selection. However, the system fails to enforce proper server-side validation on the selected role. By modifying the `applicationRoleId` parameter in the form data, an attacker can assign themselves any role, including privileged roles like `Clerk` (role ID `90000`).
+During the user registration process, the platform provides a dropdown menu for role selection. However, the system fails to enforce proper server-side validation on the selected role. By modifying the `applicationRoleId` parameter in the form data, an attacker can assign themselves any role, including privileged roles like `Clerk` (role ID `90000`).
 
 Specifically, an attacker would:
 
