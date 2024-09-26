@@ -1,8 +1,8 @@
-# Multiple Vulnerabilities in GovQA
+# Multiple Vulnerabilities in Granicus GovQA
 
 ## Description
 
-Several critical vulnerabilities were identified in GovQA, a platform used by government agencies for case and document management. These vulnerabilities included the leakage of usernames and emails, the ability to reset passwords without answering security questions, and the capability to reset any password without knowing the username.
+Several critical vulnerabilities were identified in Granicus's GovQA, a platform used by government agencies for case and document management. These vulnerabilities included the leakage of usernames and emails, the ability to reset passwords without answering security questions, and the capability to reset any password without knowing the username.
 
 ## Details
 
