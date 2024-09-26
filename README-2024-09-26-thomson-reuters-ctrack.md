@@ -2,16 +2,16 @@
 
 ## Description
 
-An insufficient permission check vulnerability in the C-Track eFiling system allowed users to assign themselves privileged roles, such as "Clerk," during the registration process. By manipulating form data, attackers could gain unauthorized access to administrative functionalities and sensitive court data.
+An insufficient permission check vulnerability in Thomson Reuters's C-Track eFiling system allowed users to assign themselves privileged roles, such as `Clerk`, during the registration process. By manipulating form data, attackers could gain unauthorized access to administrative functionalities and sensitive court data.
 
 ## Details
 
-The vulnerability was discovered in the C-Track eFiling platform used by various courts. During the user registration process, the platform provides a dropdown menu for role selection. However, the system fails to enforce proper server-side validation on the selected role. By modifying the `applicationRoleId` parameter in the form data, an attacker can assign themselves any role, including privileged roles like "Clerk" (role ID `90000`).
+The vulnerability was discovered in the C-Track eFiling platform used by various courts. During the user registration process, the platform provides a dropdown menu for role selection. However, the system fails to enforce proper server-side validation on the selected role. By modifying the `applicationRoleId` parameter in the form data, an attacker can assign themselves any role, including privileged roles like `Clerk` (role ID `90000`).
 
 Specifically, an attacker would:
 
 - Begin the registration process as a new eFile user via the Okta login page (e.g., `https://mtefile.courts.mt.gov/saml/login`).
-- When reaching the registration page (`https://mtefile.courts.mt.gov/register/new`), change the `applicationRoleId` in the role selection dropdown to a privileged role ID, such as `90000` for "Clerk."
+- When reaching the registration page (`https://mtefile.courts.mt.gov/register/new`), change the `applicationRoleId` in the role selection dropdown to a privileged role ID, such as `90000` for `Clerk`.
 - Fill out the remaining form fields and submit the registration.
 
 Upon completion, the newly created account will possess the privileges associated with the clerk role, granting access to sensitive areas and functionalities of the eFiling system.
