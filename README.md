@@ -2,7 +2,7 @@
 
 ## Timeline
 
-### [Thomson Reuters C-Track](https://govtech.cc/README-2024-09-26-thomson-reuters-ctrack.md)
+### [Thomson Reuters C-Track eFiling](https://govtech.cc/README-2024-09-26-thomson-reuters-ctrack.md)
 
 **2024-09-26**
 
