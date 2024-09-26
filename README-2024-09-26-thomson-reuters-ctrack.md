@@ -1,4 +1,4 @@
-# C-Track eFiling Privilege Escalation Vulnerability
+# Thomson Reuters C-Track eFiling Privilege Escalation Vulnerability
 
 ## Description
 
