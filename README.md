@@ -2,6 +2,12 @@
 
 ## Timeline
 
+### [Thomson Reuters C-Track](https://govtech.cc/README-2024-09-26-thomson-reuters-ctrack.md)
+
+**2024-09-26**
+
+An insufficient permission check vulnerability in the C-Track eFiling system allowed users to assign themselves privileged roles, such as "Clerk," during the registration process. By manipulating form data, attackers could gain unauthorized access to administrative functionalities and sensitive court data.
+
 ### [NYPD Officer Complaints / RockDaisy Athlete Management System](https://govtech.cc/README-2024-05-17-rockdaisy.md)
 
 **2024-05-17**
