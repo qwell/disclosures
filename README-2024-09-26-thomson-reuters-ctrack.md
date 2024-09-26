@@ -10,10 +10,9 @@ The vulnerability was discovered in the C-Track eFiling platform used by various
 
 Specifically, an attacker would:
 
-1. **Sign Up:** Begin the registration process as a new eFile user via the Okta login page (e.g., `https://mtefile.courts.mt.gov/saml/login`).
-2. **Email Verification:** Verify your email address and set up a security question.
-3. **Role Manipulation:** When reaching the registration page (`https://mtefile.courts.mt.gov/register/new`), use browser developer tools to change the `applicationRoleId` in the role selection dropdown to a privileged role ID, such as `90000` for "Clerk."
-4. **Complete Registration:** Fill out the remaining form fields and submit the registration.
+- Begin the registration process as a new eFile user via the Okta login page (e.g., `https://mtefile.courts.mt.gov/saml/login`).
+- When reaching the registration page (`https://mtefile.courts.mt.gov/register/new`), change the `applicationRoleId` in the role selection dropdown to a privileged role ID, such as `90000` for "Clerk."
+- Fill out the remaining form fields and submit the registration.
 
 Upon completion, the newly created account will possess the privileges associated with the clerk role, granting access to sensitive areas and functionalities of the eFiling system.
 
