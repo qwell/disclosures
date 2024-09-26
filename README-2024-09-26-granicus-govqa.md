@@ -6,23 +6,17 @@ Several critical vulnerabilities were identified in GovQA, a platform used by go
 
 ## Details
 
-### 1. Username/Email Leak
+Username/Email Leak
 
-Attackers could manipulate the `cid` parameter in the URL to access and retrieve usernames and email addresses of other users. By changing the `cid` value to different numbers, they were able to obtain information about various users without authorization.
+- Attackers could manipulate the `cid` parameter in the URL (e.g. `https://hillsboroughsheriff.govqa.us/WEBAPP/_rs/AnonymousCustomerResetPassword.aspx?sSessionID=&cid=64529`) to access and retrieve usernames and email addresses of other users. By changing the `cid` value to different numbers, they were able to obtain information about various users without authorization.
 
-- **Example URL:** `https://hillsboroughsheriff.govqa.us/WEBAPP/_rs/AnonymousCustomerConfirmPassword.aspx?sSessionID=&cid=64529`
+Password Reset Without Security Questions
 
-### 2. Password Reset Without Security Questions
+- Certain user accounts could have had their passwords reset by accessing the password reset confirmation page (e.g. `https://hillsboroughsheriff.govqa.us/WEBAPP/_rs/AnonymousCustomerConfirmPassword.aspx?sSessionID=&cid=64529`) without requiring the answer to any predefined security questions. This allowed unauthorized individuals to reset passwords and gain access to those accounts without any form of verification.
 
-Certain user accounts could have had their passwords reset without requiring the answer to any predefined security questions. This allowed unauthorized individuals to reset passwords and gain access to those accounts without any form of verification.
+Password Reset Without Username
 
-- **Example URL:** `https://hillsboroughsheriff.govqa.us/WEBAPP/_rs/AnonymousCustomerConfirmPassword.aspx?sSessionID=&cid=51`
-
-### 3. Password Reset Without Username
-
-Attackers were able to reset any user's password without knowing their username or providing any security answers.
-
-- **Example URL:** `https://hillsboroughsheriff.govqa.us/WEBAPP/_rs/AnonymousCustomerConfirmPassword.aspx?sSessionID=&cid=64529`
+- Attackers were able to reset any user's password without knowing their username or providing any security answers.
 
 **CVSS Score:** 9.8 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H)
 
