@@ -8,9 +8,9 @@
 
 An insufficient permission check vulnerability in the C-Track eFiling system allowed users to assign themselves privileged roles, such as "Clerk," during the registration process. By manipulating form data, attackers could gain unauthorized access to administrative functionalities and sensitive court data.
 
-### [NYPD Officer Complaints / RockDaisy Athlete Management System](https://govtech.cc/README-2024-05-17-rockdaisy.md)
+### [NYPD Officer Complaints / RockDaisy Athlete Management System](https://govtech.cc/README-2024-06-27-nypd-officer-profiles.md)
 
-**2024-05-17**
+**2024-06-27**
 
 Insufficient permission check vulnerabilities in NYPD's officer complaints platform, RockDaisy Athlete Management System, allowed unauthenticated attackers to access the administrative dashboard. Attackers could view and edit user accounts, SQL queries, database connection information, and officer profile data. Additionally, it was possible to add malicious files (such as PDFs or executables) to the Azure datastore and serve them to users who requested officer complaints.
 
