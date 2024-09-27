@@ -28,13 +28,13 @@ An attacker with clerk-level access could:
 
 ## Timeline
 
-- **2024-06-03:** Vulnerability discovered and reported to Thomson Reuters via HackerOne.
-- **2024-06-04:** Vulnerability triaged and acknowledged by HackerOne analyst.
-- **2024-07-07:** Followed up due to lack of communication.
-- **2024-08-14:** Followed up again after no response.
-- **2024-09-06:** Followed up again after no response. Intent to disclose communicated.
-- **2024-09-24:** Thomson Reuters reported a fix had been released.
-- **2024-09-25:** Vulnerability confirmed fixed.
+- 2024-06-03 - Vulnerability discovered and reported to Thomson Reuters via HackerOne.
+- 2024-06-04 - Vulnerability triaged and acknowledged by HackerOne analyst.
+- 2024-07-07 - Followed up due to lack of communication.
+- 2024-08-14 - Followed up again after no response.
+- 2024-09-06 - Followed up again after no response. Intent to disclose communicated.
+- 2024-09-24 - Thomson Reuters reported a fix had been released.
+- 2024-09-25 - Vulnerability confirmed fixed.
 
 ## Contact
 

@@ -22,11 +22,11 @@ Password Reset Without Username
 
 ## Timeline
 
-- **2024-08-05:** Vulnerabilities reported to Granicus via email.
-- **2024-08-05:** Granicus acknowledged receipt of the report.
-- **2024-08-09:** Granicus confirmed that all reported vulnerabilities were resolved and deployed to production.
-- **2024-08-12:** Follow-up communication to confirm all vulnerabilities were fixed.
-- **2024-08-14:** Confirmation from Granicus that all confirmed vulnerabilities have been mitigated.
+- 2024-08-05 - Vulnerabilities reported to Granicus via email.
+- 2024-08-05 - Granicus acknowledged receipt of the report.
+- 2024-08-09 - Granicus confirmed that all reported vulnerabilities were resolved and deployed to production.
+- 2024-08-12 - Follow-up communication to confirm all vulnerabilities were fixed.
+- 2024-08-14 - Confirmation from Granicus that all confirmed vulnerabilities have been mitigated.
 
 ## Contact
 
