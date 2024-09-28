@@ -8,13 +8,13 @@
 
 A critical vulnerability was discovered in Georgia’s voter registration cancellation portal, allowing unauthorized individuals to submit a cancellation request without proper identity verification. The issue involved bypassing the driver's license or Social Security number requirement, leaving the registration of any voter susceptible to exploitation.
 
-### [Granicus eFiling](https://govtech.cc/README-2024-09-27-granicus-efiling.md)
+### [Granicus eFiling #2](https://govtech.cc/README-2024-09-27-granicus-efiling.md)
 
 **2024-09-27**
 
 Several critical vulnerabilities were identified in Granicus's eFiling platforms. These vulnerabilities included the leakage of sensitive user information, the ability to modify user accounts without proper authorization, the potential to deny users access by duplicating usernames, and privilege escalation through manipulation of organization type codes.
 
-### [Granicus GovQA](https://govtech.cc/README-2024-09-26-granicus-govqa.md)
+### [Granicus GovQA #2](https://govtech.cc/README-2024-09-26-granicus-govqa.md)
 
 **2024-09-26**
 
@@ -54,13 +54,13 @@ An insufficient permission check vulnerability in [Catalis](https://catalisgov.c
 
 EZ-Filing v3 is used by [Maine](https://maineprobate.net/efiling).
 
-### [Granicus GovQA](https://govtech.cc/README-2024-03-07-granicus-govqa.md)
+### [Granicus GovQA #1](https://govtech.cc/README-2024-03-07-granicus-govqa.md)
 
 **2024-03-06**
 
 Insufficient permission check vulnerabilities in [Granicus](https://granicus.com/)'s GovQA allowed unauthorized access to view, edit, and change ownership of open records requests, including restricted-access confidential records. By changing ownership of a request, an attacker could effectively deny a legitimate user's access to that request. The vulnerabilities affected various deployments, including numerous Departments of Children and Family Services or their equivalents, which handle highly sensitive records of domestic violence and sexual abuse allegations against children.
 
-### [Granicus eFiling](#granicus-efiling)
+### [Granicus eFiling #1](#granicus-efiling-1)
 
 **2024-03-02**
 
