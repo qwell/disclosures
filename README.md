@@ -2,6 +2,18 @@
 
 ## Timeline
 
+### [Georgia Voter Registration Cancellation Portal](https://govtech.cc/README-2024-09-27-georgia-voter-registration-cancellation.md)
+
+**2024-09-27**
+
+A critical vulnerability was discovered in Georgia’s voter registration cancellation portal, allowing unauthorized individuals to submit a cancellation request without proper identity verification. The issue involved bypassing the driver's license or Social Security number requirement, leaving the registration of any voter susceptible to exploitation.
+
+### [Granicus eFiling](https://govtech.cc/README-2024-09-27-granicus-efiling.md)
+
+**2024-09-27**
+
+Several critical vulnerabilities were identified in Granicus's eFiling platforms. These vulnerabilities included the leakage of sensitive user information, the ability to modify user accounts without proper authorization, the potential to deny users access by duplicating usernames, and privilege escalation through manipulation of organization type codes.
+
 ### [Granicus GovQA](https://govtech.cc/README-2024-09-26-granicus-govqa.md)
 
 **2024-09-26**
